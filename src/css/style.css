@@ -70,3 +70,10 @@ body{
     box-shadow: 0 0 25px hsl(150, 100%, 66%);
 }
 
+#advice-generator{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
