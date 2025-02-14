@@ -1,0 +1,17 @@
+@media (max-width: 555px) {
+    
+    .container{
+        width: 380px;
+        height: 350px;
+    }
+
+    .advice{
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    .divider{
+        width: 90%;
+    }
+
+  }
